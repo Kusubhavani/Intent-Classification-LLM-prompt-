@@ -89,7 +89,7 @@ LLM-Powered-Prompt/
 ### **Step 1: Download the Project**
 ```powershell
 # Clone the repository
-https://github.com/Kusubhavani/Intent-Classification-LLM-prompt-.git
+git clone https://github.com/Kusubhavani/Intent-Classification-LLM-prompt-.git
 
 # Enter the project folder
 cd Intent-Classification-LLM-prompt-
@@ -571,4 +571,5 @@ bhavanikusu92@gmail.com
 Built with ❤️ for developers everywhere
 
 **Happy Routing!** 🤖✨
+
 
