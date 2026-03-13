@@ -186,36 +186,44 @@ Ctrl+C
 ```
 🎯 5 Essential Questions to Test Your LLM Router
 Try These 5 Questions - One for Each Intent!
+
+
 1️⃣ CODE INTENT
-bash
+
+
 How do I reverse a string in Python?
 What to expect: Python code with slicing example
 
 text
 Expected: text[::-1] explanation with code blocks
 2️⃣ DATA INTENT
-bash
+
+
+
 What's the average of 10, 20, 30, 40, 50?
 What to expect: Calculation and explanation
 
 text
 Expected: Average = 30 with step-by-step math
 3️⃣ WRITING INTENT
-bash
+
+
 Fix my grammar: me and him went to the store
 What to expect: Grammar correction
 
 text
 Expected: "He and I went to the store" with explanation
 4️⃣ CAREER INTENT
-bash
+
+
 How to prepare for a Python developer interview?
 What to expect: Career advice
 
 text
 Expected: Interview tips, topics to study, common questions
 5️⃣ UNCLEAR INTENT
-bash
+
+
 Hello, how are you?
 What to expect: Asks for clarification
 
@@ -571,5 +579,6 @@ bhavanikusu92@gmail.com
 Built with ❤️ for developers everywhere
 
 **Happy Routing!** 🤖✨
+
 
 
