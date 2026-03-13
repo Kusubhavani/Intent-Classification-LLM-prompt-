@@ -19,7 +19,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LLM-Powered-Prompt.git
+git clone https://github.com/Kusubhavani/LLM-Powered-Prompt-Router.git
 
 # Enter the project folder
 cd LLM-Powered-Prompt
@@ -307,5 +307,6 @@ Your LLM-Powered Prompt Router is now running!
 - **Web Interface:** http://localhost:5000
 - **Terminal Chat:** `python main.py`
 - **API:** http://localhost:5000/api/chat
+
 
 **Enjoy chatting with your AI router!** 🤖
