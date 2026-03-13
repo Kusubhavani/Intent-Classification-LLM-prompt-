@@ -1,0 +1,15 @@
+services:
+  prompt-router:
+
+    build: .
+
+    container_name: llm-router
+
+    env_file:
+      - .env
+
+    volumes:
+      - ./route_log.jsonl:/app/route_log.jsonl
+
+    stdin_open: true
+    tty: true
