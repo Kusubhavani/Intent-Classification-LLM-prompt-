@@ -22,7 +22,7 @@
 git clone https://github.com/Kusubhavani/LLM-Powered-Prompt-Router.git
 
 # Enter the project folder
-cd LLM-Powered-Prompt
+cd LLM-Powered-Prompt-Router
 ```
 
 ---
@@ -310,3 +310,4 @@ Your LLM-Powered Prompt Router is now running!
 
 
 **Enjoy chatting with your AI router!** 🤖
+
