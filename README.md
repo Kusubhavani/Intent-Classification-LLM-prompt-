@@ -89,10 +89,10 @@ LLM-Powered-Prompt/
 ### **Step 1: Download the Project**
 ```powershell
 # Clone the repository
-git clone https://github.com/Kusubhavani/LLM-Powered-Prompt-Router.git
+https://github.com/Kusubhavani/Intent-Classification-LLM-prompt-.git
 
 # Enter the project folder
-cd LLM-Powered-Prompt-Router
+cd Intent-Classification-LLM-prompt-
 
 # Check files (you should see all .py files)
 dir
@@ -571,3 +571,4 @@ bhavanikusu92@gmail.com
 Built with ❤️ for developers everywhere
 
 **Happy Routing!** 🤖✨
+
